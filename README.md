@@ -1,2 +1,2 @@
 # phgra.github.com
-a platform
+The window of photography
